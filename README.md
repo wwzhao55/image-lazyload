@@ -1,5 +1,5 @@
 # image-lazyload
-实现图片懒加载，优化性能 Demo:(https:www.wwzhao.com)
+实现图片懒加载，优化性能 Demo:http://www.wwzhao.com/Demo/lazyLoad/index.html
 </br>
 懒加载的主要目的是作为服务器前端的优化，减少请求数或延迟请求数
 
